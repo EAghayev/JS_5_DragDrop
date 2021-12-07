@@ -1,0 +1,16 @@
+.box{
+    width: 70px;
+    height: 70px;
+    background-color: gainsboro;
+    border:1px solid black;
+}
+
+#mainBox{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    background-color: gray;
+}

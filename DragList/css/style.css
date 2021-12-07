@@ -1,0 +1,18 @@
+#firstList{
+
+}
+
+#firstList li{
+    cursor: all-scroll;
+}
+
+#secondList{
+    min-height: 50px;
+    background-color: gray;
+}
+
+#text-box{
+    height: 300px;
+    background-color: rgb(43, 41, 41);
+    border-radius: 4px;
+}
